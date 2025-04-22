@@ -34,4 +34,5 @@ I'd love to hear from you!
 ### License  
 *MIT License*  
 Copyright (c) 2025 **Brilliant-Akan-Name-Generator**
+https://akan-name-generator-551w3xgcg-brilliant-kimaris-projects.vercel.app/
 
